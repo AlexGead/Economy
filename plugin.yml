@@ -1,0 +1,15 @@
+name: MyEconomy
+version: 0.1beta
+api: 3.0.1
+main: eco\main
+author: TihonovDev
+
+commands:
+  money:
+    description: /money
+  givemoney:
+    description: /givemoney
+  rubs:
+    description: /rmmoney
+  giverubs:
+    description: /giverubs
